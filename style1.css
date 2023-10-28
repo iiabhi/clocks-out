@@ -1,22 +1,30 @@
-#outer{
-    background-color: black;
-    height: 800px;
-    width: 300px;
-    border: 5px solid aqua;
+body{
+    background-color:rgb(21, 65, 116);
 }
-.light{
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    margin:50px;
-    
+#outer{
+    background-color: #0f1111;
+    border: 9px solid;
+    border-color: white;
+    height: 60px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.link{
+    margin: 150px;
+ 
 }
 #inner1{
-    background-color: red;
+    font-size: 25px;
+    color:rgb(201, 166, 10);
 }
-#inner2{
-    background-color: yellow;
+button{
+    background-color: #f08804;
 }
-#inner3{
-    background-color: green;
+#inner5{
+    margin-right: 0px;
+}
+#inner6{
+    margin: 0px;
 }
